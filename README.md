@@ -1,4 +1,4 @@
-# Azra Nur Çallıbunar Web Script
+# Personal Portfolio Web Script
 
 ## About the Site
 
